@@ -1,4 +1,4 @@
-De_fused WiiU Mod Chip PCB 
+De_fused WiiU Mod Chip PCB Repair Tool
 
 Based on https://github.com/StroopwafelCFW/wii_u_modchip
 All thanks to the original Creators/Contributors
